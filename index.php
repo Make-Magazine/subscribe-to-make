@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Bootstrap, from Twitter</title>
+	<title>Subscribe to MAKE magazine</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="description" content="Subscribe to MAKE magazine">
+	<meta name="author" content="Jake Spurlock">
 
 	<!-- Le styles -->
 	<link href="css/bootstrap.css" rel="stylesheet">
