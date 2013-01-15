@@ -16,7 +16,7 @@
 <body>
 
 	<a target="_blank" href="https://readerservices.makezine.com/MK/subgift.aspx?PC=MK&PK=44CBAN9&FC=UNITED+STATES">
-		<img src="img/subscribe.jpg" alt="Subscribe to MAKE">
+		<img src="img/subscribe1.jpg" alt="Subscribe to MAKE">
 	</a>
 	
 </body>
