@@ -15,8 +15,8 @@
 </head>
 <body>
 
-	<a target="_blank" href="https://readerservices.makezine.com/MK/subgift.aspx?PC=MK&PK=44CBAN9&FC=UNITED+STATES">
-		<img src="img/subscribe1.jpg" alt="Subscribe to MAKE">
+	<a target="_blank" href="https://readerservices.makezine.com/mk/subscribe.aspx?PC=MK&PK=M38FACE">
+		<img src="img/subscribe2.jpg" alt="Subscribe to MAKE">
 	</a>
 	
 </body>
