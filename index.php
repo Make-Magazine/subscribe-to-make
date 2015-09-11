@@ -15,7 +15,7 @@
 </head>
 <body>
 
-	<a target="_blank" href="https://www.pubservice.com/MK/subscribe.aspx?PC=MK&PK=M5ASM1">
+	<a target="_blank" href="https://readerservices.makezine.com/mk/default.aspx?pc=MK&pk=M5ASM1">
 		<img src="img/150615_facebookad-v101.png" alt="Subscribe to MAKE">
 	</a>
 	
