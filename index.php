@@ -15,8 +15,8 @@
 </head>
 <body>
 
-	<a target="_blank" href="https://www.pubservice.com/mk/SubGiftCombo.aspx?PC=mk&pk=45BHFB1&AN=&ZP">
-		<img src="img/Make2015-Holiday-Web-Banner-800x810.jpg" alt="Subscribe to MAKE">
+	<a target="_blank" href="http://makezine.com/subscribe">
+		<img src="img/Make-_2016sub_800x810.jpg" alt="Subscribe to MAKE">
 	</a>
 	
 </body>
