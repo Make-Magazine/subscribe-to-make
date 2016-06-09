@@ -15,7 +15,7 @@
 </head>
 <body>
 
-	<a target="_blank" href="http://makezine.com/subscribe">
+	<a target="_blank" href="https://readerservices.makezine.com/mk/default.aspx?pc=MK&pk=M6EFBK">
 		<img src="img/Make-_2016sub_800x810.jpg" alt="Subscribe to MAKE">
 	</a>
 	
